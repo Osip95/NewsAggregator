@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <declare-styleable name="Base.Theme.MyApplication">
+    <!-- region  Theme attributes according to design system  -->
+    <attr name="colorToolBar" format="color" />
+    <attr name="colorBottomMenuBackground" format="color"/>
+    <attr name="itemPressedBottomMenuColor" format="color"/>
+    <attr name="itemNoPressedBottomMenuColor" format="color"/>
+    <attr name="textColorTitle" format="color"/>
+
+</declare-styleable></resources>
